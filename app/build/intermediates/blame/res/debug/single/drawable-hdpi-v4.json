@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_edit.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_edit.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\live_folder_notes.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_save.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_compose.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_revert.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_revert.png"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_notes.png",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\app_notes.png"
+    }
+]

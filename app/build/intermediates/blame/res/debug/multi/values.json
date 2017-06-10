@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 44,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 40,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1315,
+                        "endColumn": 40,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 60,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1554,
+                        "endColumn": 60,
+                        "endOffset": 1610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 45,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1508,
+                        "endColumn": 45,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 50,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 50,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 45,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 45,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 42,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 42,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 46,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 46,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 42,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1128,
+                        "endColumn": 42,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 44,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 44,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 54,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 54,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 42,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 42,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 68,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 68,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endColumn": 50,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 50,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 52,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 52,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 45,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 45,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 44,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 44,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 49,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 49,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 56,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 56,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 50,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 50,
+                        "endOffset": 986
+                    }
+                }
+            }
+        ]
+    }
+]

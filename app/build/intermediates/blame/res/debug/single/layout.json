@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color.xml",
+        "source": "G:\\xiangmu\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\layout\\color.xml"
+    }
+]
